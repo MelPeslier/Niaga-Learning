@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Aie/Documents/Unreal Projects/FirstVfx/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Aie/Documents/Unreal Projects/FirstVfx/Content/LearningExemples/Test_01.uasset",
+				"D:/Aie/Documents/Unreal Projects/FirstVfx/Content/LearningExemples/Sytem_01.uasset",
+				"D:/Aie/Documents/Unreal Projects/FirstVfx/Content/Levels/001_Tests.umap"
+			]
+		}
+	]
+}
